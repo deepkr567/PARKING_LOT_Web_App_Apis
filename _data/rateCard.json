@@ -1,0 +1,19 @@
+[
+  {
+  "twoWheeler": {
+      "first": 10,
+      "second": 20,
+      "third": 30
+    },
+  "hatchBack": {
+      "first": 20,
+      "second": 30,
+      "third": 50
+    },
+  "suv": {
+      "first": 30,
+      "second": 50,
+      "third": 100
+    }
+  }
+]

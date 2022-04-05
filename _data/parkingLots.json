@@ -1,0 +1,42 @@
+[
+  {
+    "lotNumber": "L1",
+    "capacity": {
+      "twoWheeler": 30,
+      "hatchBack": 20,
+      "suv": 5
+      }
+  },
+  {
+    "lotNumber": "L2",
+    "capacity": {
+      "twoWheeler": 40,
+      "hatchBack": 30,
+      "suv": 6
+      }
+  },
+  {
+    "lotNumber": "L3",
+    "capacity": {
+      "twoWheeler": 35,
+      "hatchBack":20,
+      "suv": 10
+    }
+  },
+  {
+    "lotNumber": "L4",
+    "capacity": {
+      "twoWheeler": 25,
+      "hatchBack": 15,
+      "suv": 20
+    }
+  },
+  {
+    "lotNumber": "L5",
+    "capacity": {
+      "twoWheeler": 20,
+      "hatchBack": 10,
+      "suv": 25
+    }
+  }
+]
